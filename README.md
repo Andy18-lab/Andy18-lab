@@ -52,7 +52,6 @@ Actualmente estoy enfocado en aprender nuevas herramientas, mejorar mis habilida
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode&theme=dark" />
 
 </div>
 
