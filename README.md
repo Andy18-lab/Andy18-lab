@@ -1,32 +1,29 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8000FF,100:D8B4FE&height=200&section=header&text=Andy18-lab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8000FF,100:D8B4FE&height=200&section=header&text=Andy18-lab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bienvenido%20a%20mi%20perfil%20de%20GitHub&descAlignY=55&descSize=18" width="100%"/>
 
-# 💜 Hi, I'm Andy!
+# 💜 ¡Hola! Soy Andy
 
-### ✨ Welcome to my GitHub profile ✨
+### Desarrollador en formación | Apasionado por la tecnología
 
-💻 Future Developer | 🚀 Technology Enthusiast | 🌌 Always Learning
-
-[![GitHub followers](https://img.shields.io/github/followers/Andy18-lab?style=for-the-badge&color=8000FF&labelColor=1a1025)](https://github.com/Andy18-lab)
-[![GitHub stars](https://img.shields.io/github/stars/Andy18-lab?style=for-the-badge&color=A855F7&labelColor=1a1025)](https://github.com/Andy18-lab)
+🚀 Aprendiendo, creando y mejorando cada día.
 
 </div>
 
 ---
 
-## 💜 About Me
+## 👨‍💻 Sobre mí
 
-- 🌱 I'm currently learning programming and software development.
-- 💻 Interested in technology and creating new projects.
-- 🚀 Working to improve my programming skills.
-- 🎯 My goal is to become a great developer.
-- ✨ Always learning something new!
+- 🌱 Actualmente estoy aprendiendo programación.
+- 💻 Me interesa el desarrollo de software y la tecnología.
+- 🚀 Me gusta aprender cosas nuevas y crear proyectos.
+- 🎯 Mi objetivo es convertirme en un gran desarrollador.
+- ✨ Siempre buscando nuevos retos y oportunidades para mejorar.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
@@ -36,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Mis estadísticas de GitHub
 
 <div align="center">
 
@@ -48,7 +45,13 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 Mis proyectos
+
+Aquí compartiré algunos de los proyectos que vaya desarrollando durante mi aprendizaje.
+
+---
+
+## 📬 Encuéntrame en GitHub
 
 <div align="center">
 
@@ -62,9 +65,9 @@
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 💜 ¡Gracias por visitar mi perfil!
 
-**"Dream big, code bigger."** 🚀
+**"Grandes ideas, grandes proyectos y mucho código."** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8000FF,100:D8B4FE&height=100&section=footer" width="100%"/>
 
