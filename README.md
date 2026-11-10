@@ -1,29 +1,54 @@
 
+<!-- ENCABEZADO -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8000FF,100:D8B4FE&height=200&section=header&text=Andy18-lab&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bienvenido%20a%20mi%20perfil%20de%20GitHub&descAlignY=55&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:3B0764,50:7E22CE,100:C084FC&text=ANDY18-LAB&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
 
-# 💜 ¡Hola! Soy Andy
+### DESARROLLADOR EN FORMACIÓN
 
-### Desarrollador en formación | Apasionado por la tecnología
+Construyendo ideas, aprendiendo tecnología y creando proyectos.
 
-🚀 Aprendiendo, creando y mejorando cada día.
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-7E22CE?style=flat-square&logo=github&logoColor=white)](https://github.com/Andy18-lab)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+<!-- PRESENTACIÓN EN DOS COLUMNAS -->
 
-- 🌱 Actualmente estoy aprendiendo programación.
-- 💻 Me interesa el desarrollo de software y la tecnología.
-- 🚀 Me gusta aprender cosas nuevas y crear proyectos.
-- 🎯 Mi objetivo es convertirme en un gran desarrollador.
-- ✨ Siempre buscando nuevos retos y oportunidades para mejorar.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## SOBRE MÍ
+
+Hola, soy Andy.
+
+Soy una persona interesada en la programación, el desarrollo de software y la tecnología.
+
+Actualmente estoy enfocado en aprender nuevas herramientas, mejorar mis habilidades y desarrollar proyectos que me permitan crecer como programador.
+
+</td>
+<td width="50%" valign="top">
+
+## EN QUÉ ESTOY TRABAJANDO
+
+- Aprendiendo programación.
+- Desarrollando mis habilidades técnicas.
+- Explorando nuevas tecnologías.
+- Creando proyectos personales.
+- Mejorando mis conocimientos cada día.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+<!-- TECNOLOGÍAS -->
+
+## TECNOLOGÍAS Y HERRAMIENTAS
 
 <div align="center">
 
@@ -33,42 +58,91 @@
 
 ---
 
-## 📊 Mis estadísticas de GitHub
+<!-- ESTADÍSTICAS EN DOS COLUMNAS -->
+
+## ESTADÍSTICAS DE GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andy18-lab&show_icons=true&theme=midnight-purple&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=0D1117&hide_border=true" />
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Andy18-lab&show_icons=true&hide_border=true&bg_color=160B26&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&include_all_commits=true"/>
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy18-lab&layout=compact&hide_border=true&bg_color=160B26&title_color=C084FC&text_color=E9D5FF"/>
+</td>
+</tr>
+</table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andy18-lab&layout=compact&theme=midnight-purple&title_color=C084FC&text_color=E9D5FF&bg_color=0D1117&hide_border=true" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy18-lab&background=160B26&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=BAA5D5&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌟 Mis proyectos
+<!-- PROYECTOS -->
 
-Aquí compartiré algunos de los proyectos que vaya desarrollando durante mi aprendizaje.
+## PROYECTOS DESTACADOS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Proyecto 01
+
+**Próximamente**
+
+Aquí podrás mostrar uno de tus proyectos, explicar brevemente qué hace y qué tecnologías utilizaste.
+
+</td>
+<td width="50%" valign="top">
+
+### Proyecto 02
+
+**Próximamente**
+
+Aquí podrás agregar otro proyecto personal y compartir el enlace a su repositorio.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Encuéntrame en GitHub
+<!-- CONTACTO -->
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Andy18-lab">
-<img src="https://img.shields.io/badge/GitHub-Andy18--lab-8000FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## CONTACTO
 
-</div>
+¿Te interesa colaborar o compartir ideas?
+
+Puedes encontrarme en GitHub.
+
+</td>
+<td width="50%" valign="top">
+
+## ENLACES
+
+[GitHub](https://github.com/Andy18-lab)
+
+[Mis repositorios](https://github.com/Andy18-lab?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💜 ¡Gracias por visitar mi perfil!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:7E22CE,100:C084FC&height=100&section=footer"/>
 
-**"Grandes ideas, grandes proyectos y mucho código."** 🚀
+**ANDY18-LAB**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8000FF,100:D8B4FE&height=100&section=footer" width="100%"/>
+Construyendo el futuro, una línea de código a la vez.
 
 </div>
