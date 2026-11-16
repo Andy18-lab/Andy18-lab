@@ -1,19 +1,19 @@
-<!-- ENCABEZADO CON IMAGEN ESTILO ANIME / DARK -->
+<!-- ENCABEZADO CON IMAGEN ESTILO DARK / AESTHETIC -->
 <div align="center">
 
 <img width="100%" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Banner" style="border-radius: 12px; max-height: 220px; object-fit: cover;" />
 
-# ⚡ Hi, I'm Andy! 
+# ⚡ ¡Hola, soy Andy! 
 
-[![GitHub followers](https://img.shields.io/github/followers/Andy18-lab?color=7E22CE&label=Followers&logo=github&style=flat-square)](https://github.com/Andy18-lab?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Andy18-lab?color=7E22CE&label=Seguidores&logo=github&style=flat-square)](https://github.com/Andy18-lab?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Andy18-lab&color=7e22ce&style=flat-square)](https://github.com/Andy18-lab)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-### ☕ About me
+<!-- SOBRE MÍ -->
+### ☕ Sobre mí
 
 <div align="center">
 
@@ -21,12 +21,12 @@
 <tr>
 <td width="55%" valign="top">
 
-- 💻 **UNSIS Informatics Student** (5th Semester).
-- 📍 **Mexico**
-- 🛠️ **Currently building:** Desktop apps & web interfaces.
-- 🎨 **Interests:** UI Design, Software Development & Crafting.
-- ⚡ **Tech Stack:** Java, C, MySQL, PostgreSQL, HTML/CSS, Git.
-- 💜 **Love to:** Code, Create & Explore.
+- 💻 **Estudiante de Licenciatura en Informática** (5to semestre).
+- 📍 **México**
+- 🛠️ **En qué estoy trabajando:** Aplicaciones de escritorio y interfaces web.
+- 🎨 **Intereses:** Diseño UI, desarrollo de software y manualidades/creación.
+- ⚡ **Tecnologías:** Java, C, MySQL, PostgreSQL, HTML/CSS, Git.
+- 💜 **Me encanta:** Programar, crear y explorar nuevas herramientas.
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -44,7 +44,7 @@
 ---
 
 <!-- TECNOLOGÍAS - ICONOS EN LÍNEA -->
-### ✦ Languages, Frameworks & Tools ✦
+### ✦ Lenguajes, Frameworks y Herramientas ✦
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 ---
 
 <!-- ESTADÍSTICAS DE GITHUB -->
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -89,8 +89,8 @@
 
 ---
 
-<!-- ACTIVIDAD / SNAKE ANIMADO -->
-### 🐍 Contribution Snake
+<!-- ANIMACIÓN DE CONTRIBUCIONES (SNAKE) -->
+### 🐍 Serpiente de Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -98,11 +98,11 @@
 
 ---
 
-<!-- FOOTER -->
+<!-- PIE DE PÁGINA -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:180424,50:3B0764,100:7E22CE&height=100&section=footer"/>
 
-**Made with 💜 by Andy18-lab**
+**Hecho con 💜 por Andy18-lab**
 
 </div>
