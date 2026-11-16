@@ -1,44 +1,35 @@
-
 <!-- ENCABEZADO -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:3B0764,50:7E22CE,100:C084FC&text=ANDY18-LAB&fontSize=48&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:180424,30:3B0764,70:7E22CE,100:C084FC&text=¡HOLA,%20SOY%20ANDY!&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn&uttam=10"/>
 
-### DESARROLLADOR EN FORMACIÓN
-
-Construyendo ideas, aprendiendo tecnología y creando proyectos.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-7E22CE?style=flat-square&logo=github&logoColor=white)](https://github.com/Andy18-lab)
+[![GitHub followers](https://img.shields.io/github/followers/Andy18-lab?color=7E22CE&label=Seguidores&logo=github&style=flat-square)](https://github.com/Andy18-lab?tab=followers)
+[![GitHub Streak](https://img.shields.io/badge/Status-Estudiante%20%2F%20Dev-3B0764?style=flat-square&logo=git&logoColor=white)](https://github.com/Andy18-lab)
 
 </div>
 
 ---
 
-<!-- PRESENTACIÓN EN DOS COLUMNAS -->
-
+<!-- SOBRE MÍ & EN QUÉ ESTOY -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-## SOBRE MÍ
+### 💻 Sobre Mí
 
-Hola, soy Andy.
+¡Hola! Soy **Andy**, estudiante de **Licenciatura en Informática** en la Universidad de la Sierra Sur (UNSIS). 
 
-Soy una persona interesada en la programación, el desarrollo de software y la tecnología.
+Me apasiona el desarrollo de software, la creación de interfaces funcionales y la resolución de problemas mediante código. Actualmente estoy construyendo bases sólidas en programación de escritorio, bases de datos y diseño web.
 
-Actualmente estoy enfocado en aprender nuevas herramientas, mejorar mis habilidades y desarrollar proyectos que me permitan crecer como programador.
+* 🎯 **Enfoque actual:** Programación orientada a objetos (Java), bases de datos y prototipado.
+* 🚀 **Objetivo:** Continuar creciendo como desarrolladora y crear soluciones útiles.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top" align="center">
 
-## EN QUÉ ESTOY TRABAJANDO
-
-- Aprendiendo programación.
-- Desarrollando mis habilidades técnicas.
-- Explorando nuevas tecnologías.
-- Creando proyectos personales.
-- Mejorando mis conocimientos cada día.
+<!-- Aquí puedes cambiar el enlace de la imagen por tu foto, avatar o una ilustración que te guste -->
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=600&auto=format&fit=crop" width="100%" style="border-radius: 12px;" alt="Coding Workspace"/>
+<sub style="color: #A855F7;">Construyendo el futuro con código</sub>
 
 </td>
 </tr>
@@ -46,20 +37,59 @@ Actualmente estoy enfocado en aprender nuevas herramientas, mejorar mis habilida
 
 ---
 
-<!-- TECNOLOGÍAS -->
-
-## TECNOLOGÍAS Y HERRAMIENTAS
+<!-- TECNOLOGÍAS Y HERRAMIENTAS -->
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
+### Lenguajes
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Bases de Datos & Entornos
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeansIDE&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+### Herramientas & Diseño
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/WSL-181717?style=for-the-badge&logo=linux&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ESTADÍSTICAS EN DOS COLUMNAS -->
+<!-- PROYECTOS DESTACADOS -->
+## 🚀 Proyectos Destacados
 
-## ESTADÍSTICAS DE GITHUB
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sistema de Gestión / Seguimiento
+* **Descripción:** Aplicación de escritorio desarrollada en Java Swing con conexión a bases de datos relacionales (MySQL/PostgreSQL) para control de registros y consultas administrativas.
+* **Tecnologías:** `Java`, `NetBeans`, `MySQL`, `Swing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Gaceta Universitaria (Prototipo)
+* **Descripción:** Interfaz y diseño web estructurado para centralizar avisos académicos, noticias institucionales y convocatorias.
+* **Tecnologías:** `HTML5`, `CSS3`, `Figma`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ESTADÍSTICAS DE GITHUB -->
+## 📈 Estadísticas de GitHub
 
 <div align="center">
 
@@ -74,65 +104,23 @@ Actualmente estoy enfocado en aprender nuevas herramientas, mejorar mis habilida
 </tr>
 </table>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy18-lab&background=160B26&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=BAA5D5&hide_border=true"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andy18-lab&background=160B26&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=BAA5D5&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- PROYECTOS -->
-
-## PROYECTOS DESTACADOS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Proyecto 01
-
-**Próximamente**
-
-Aquí podrás mostrar uno de tus proyectos, explicar brevemente qué hace y qué tecnologías utilizaste.
-
-</td>
-<td width="50%" valign="top">
-
-### Proyecto 02
-
-**Próximamente**
-
-Aquí podrás agregar otro proyecto personal y compartir el enlace a su repositorio.
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- CONTACTO -->
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📬 Conectemos
 
-## CONTACTO
+¿Tienes alguna idea, proyecto o te gustaría colaborar? ¡Hablemos!
 
-¿Te interesa colaborar o compartir ideas?
+[![GitHub](https://img.shields.io/badge/GitHub-Andy18--lab-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andy18-lab)
+[![Repositorios](https://img.shields.io/badge/Ver_Repositorios-3B0764?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Andy18-lab?tab=repositories)
 
-Puedes encontrarme en GitHub.
-
-</td>
-<td width="50%" valign="top">
-
-## ENLACES
-
-[GitHub](https://github.com/Andy18-lab)
-
-[Mis repositorios](https://github.com/Andy18-lab?tab=repositories)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -140,8 +128,6 @@ Puedes encontrarme en GitHub.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,50:7E22CE,100:C084FC&height=100&section=footer"/>
 
-**ANDY18-LAB**
-
-Construyendo el futuro, una línea de código a la vez.
+**ANDY18-LAB** • Construyendo el futuro, una línea de código a la vez. 💜
 
 </div>
