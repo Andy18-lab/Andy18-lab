@@ -1,8 +1,12 @@
 <!-- ENCABEZADO CON IMAGEN ESTILO DARK / AESTHETIC -->
 <div align="center">
 
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TOKMWUreZ3qKzTMrBMpqXsoLBOLb2Zzl-XOBVkSZ9W4m8DJ4poD2zEv-&s=10" alt="Banner" style="border-radius: 12px; max-height: 220px; object-fit: cover;" />
-
+<img
+  width="100%"
+  src="banner.jpg"
+  alt="Banner"
+  style="border-radius: 12px; max-height: 220px; object-fit: cover;"
+/>
 # ⚡ ¡Hola, soy Andy! 
 
 [![GitHub followers](https://img.shields.io/github/followers/Andy18-lab?color=7E22CE&label=Seguidores&logo=github&style=flat-square)](https://github.com/Andy18-lab?tab=followers)
