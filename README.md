@@ -1,7 +1,7 @@
 <!-- ENCABEZADO CON IMAGEN ESTILO DARK / AESTHETIC -->
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" alt="Banner" style="border-radius: 12px; max-height: 220px; object-fit: cover;" />
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TOKMWUreZ3qKzTMrBMpqXsoLBOLb2Zzl-XOBVkSZ9W4m8DJ4poD2zEv-&s=10" alt="Banner" style="border-radius: 12px; max-height: 220px; object-fit: cover;" />
 
 # ⚡ ¡Hola, soy Andy! 
 
